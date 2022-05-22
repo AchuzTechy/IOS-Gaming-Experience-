@@ -1,6 +1,9 @@
 # IOS-Gaming-Experience-
 IOS Gaming Experience 
 
+
+Developed By ,[Achuz] (https://instagram.com/achuz_techy?utm_medium=copy_link)
+
 🔗 Introduction: Unlocker | Magisk Modul
 🔗 Support: Universal
 🔗 Note: Unlock Game Graphics/FPS. This module will not work if You're using MagiskHide Props. Or others similar Modules with it. Not Work for All Games, causing SafetyNet fail. Need Xposed module to fix or bypass SafetyNet. It may break some system Apps, such as Miui Camera, Package Installer and etc.
